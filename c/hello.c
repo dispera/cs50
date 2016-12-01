@@ -10,5 +10,3 @@ int main(void)
 	scanf("%s", name);
 	printf("Hello, %s!\n", name);
 }
-9223372036854775808
-9000000000000000000
